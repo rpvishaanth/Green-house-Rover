@@ -1,7 +1,5 @@
 /*
  * Energy-Efficient Rover for Greenhouse Farming
- * MEDS505L – Real Time Operating System | Digital Assignment 3
- * Vellore Institute of Technology, Chennai
  */
 
 // --- BLYNK V2 CREDENTIALS (MUST BE AT THE VERY TOP) ---

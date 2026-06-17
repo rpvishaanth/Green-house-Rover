@@ -1,14 +1,15 @@
 <!-- at the top of README.md, after the title -->
-
-## System Overview
-![System Overview](docs/rover_system_overview.png)
-
-## FreeRTOS Task Architecture
-![FreeRTOS Tasks](docs/freertos_tasks.png)
-
-## UDP Control Protocol
-![UDP Protocol](docs/udp_protocol.png)
 # Green-house-Rover
+# Rover Firmware
+
+<div align="center">
+
+[![ESP32](https://img.shields.io/badge/ESP32-FreeRTOS-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](#)
+[![UDP](https://img.shields.io/badge/Communication-UDP-2C7BE5?style=for-the-badge)](#)
+[![PlatformIO](https://img.shields.io/badge/Build-PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+
+</div>
 
 ## 📌 Project Overview
 
